@@ -15,9 +15,8 @@
     "@e1011/es-kit": "^1.1.56",
     "aws-amplify": "^6.4.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-  },
-  "devDependencies": {
+    "react-dom": "^18.2.0",
+
     "@aws-amplify/backend": "^1.0.4",
     "@aws-amplify/backend-cli": "^1.1.1",
     "@types/react": "^18.2.66",
